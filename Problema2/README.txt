@@ -15,7 +15,17 @@ utilizando los 3 metodos de busqueda de raices. Por los graficos y los datos obt
         Dada la misma tolerancia, los tres métodos llegaron al "mismo valor" en una cantidad muy diferente de iteraciones, siendo Newton el más óptimo en ese sentido.
 			
 	Error relativo:
-    	Por otro lado, podemos comparar los métodos respecto del error relativo en cada uno. En este caso quien menor error relativo obtuvo fue el método de la Secante, por ende resulta éste el método más óptimo respecto a ultima iteracion.
+    	Por otro lado, podemos comparar los métodos respecto del error relativo en cada uno. En este caso quien menor error relativo obtuvo fue el método de la Secante, por ende resulta éste el método más óptimo respecto a ultima aproximacion de la raiz.
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣀⢀⣾⠿⠻⢶⣄⠀⠀⣠⣶⡿⠶⣄⣠⣾⣿⠗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
