@@ -36,13 +36,12 @@ program parcial1
     file_bisec = "biseccion.dat"
     file_newton = "newton.dat"
     file_secante = "secante.dat"
-    !Parte II.b
     file_datos = "p2-funciones.dat"
 	a = 0._wp
 	b = 5._wp
-    p0 = 1.2_wp
-    r0 = 1
-    r1 = 3
+    p0 = 0.0_wp
+    r0 = 0._wp
+    r1 = 5._wp
     maxite = 100
 !-------------------------------------------------------------------------!
 ! 					Abrimos archivo para II.B							  !
